@@ -1,1 +1,1 @@
-# GR-Code
+# QR-Code
